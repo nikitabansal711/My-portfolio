@@ -1,3 +1,3 @@
-# html_assignment_nikita
+# html assignment: My Protfolio
 
-portfolio assignment
+this is the solution to the given html/css assignment wherein we were required to build our resume.
