@@ -1,108 +1,113 @@
-.main_grid_container{
+.main_grid_container {
     display: grid;
     grid-template-columns: 50% 50%;
-    height:1300px ;
+    height: 1300px;
 }
-.first_column{
+
+.first_column {
     background-color: #F5F5F5;
     box-shadow: 5px 10px 8px #888888;
 }
-.name{
-   color: #708090;
-   font-size: 250%;
-   font-weight: 600;
+
+.name {
+    color: #708090;
+    font-size: 250%;
+    font-weight: 600;
 }
-.desc{
-    color:  #708090;
+
+.desc {
+    color: #708090;
     font-size: 130%;
     margin-top: 20px;
 }
-.head1{
+
+.head1 {
     margin-top: 20px;
-    color: 	#696969;
+    color: #696969;
     font-size: 160%;
     font-weight: 600;
-    box-shadow: 5px 10px #D3D3D3	;
-
-    /* box-shadow: 5px 10px 18px	#696969 ; */
-    
-
+    box-shadow: 5px 10px #D3D3D3;
 }
-.edu_details{
-    color:#708090 ;
+
+.edu_details {
+    color: #708090;
     font-size: 130%;
 }
-.det1{
+
+.det1 {
     color: #696969;
     font-weight: 700;
 }
-.det3{
-    /* color: #808080; */
-    color: #696969	;
+
+.det3 {
+    color: #696969;
     font-size: 90%;
 }
-.second_column{
 
-        /* background-color: #E6E6FA; */
-        background-color: #DCDCDC;
-        margin-left: 20px;
-        box-shadow: 5px 10px 8px #888888;
+.second_column {
+    background-color: #DCDCDC;
+    margin-left: 20px;
+    box-shadow: 5px 10px 8px #888888;
 }
-hr{
-  border-top: 2px solid;  
+
+hr {
+    border-top: 2px solid;
 }
-.main_flex{
+
+.main_flex {
     display: flex;
     justify-content: space-between;
 }
-.contact{
-    color: #708090	;
+
+.contact {
+    color: #708090;
     font-size: large;
     margin-top: 10px;
     margin-right: 10px;
     height: 100px;
-    
 }
-.inflex{
+
+.inflex {
     display: flex;
     justify-content: space-between;
 }
-.phn{
+
+.phn {
     display: grid;
     grid-template-columns: auto auto;
     height: 20px;
     width: 200px;
 }
-.skills{
+
+.skills {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     height: fit-content;
     width: fit-content;
     margin-left: 10px;
-
 }
 
-.skill{
+.skill {
     display: flex;
-    background-color: #F5F5F5	;
+    background-color: #F5F5F5;
     border: 1px solid #C0C0C0;
     padding: 10px;
     margin: 10px;
     width: fit-content;
     height: fit-content;
     box-shadow: 5px 10px #C0C0C0;
-
-
 }
-.det4{
-    color: #696969	;
+
+.det4 {
+    color: #696969;
     font-size: 90%;
-    border: 1px solid #696969	 ;
+    border: 1px solid #696969;
     height: fit-content;
     width: fit-content;
     padding: 0.5em;
 }
-img{
+
+img {
     border-radius: 50%;
 }
