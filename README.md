@@ -1,4 +1,4 @@
-# html assignment: My Protfolio
+# html assignment: My Portfolio
 
 this is the solution to the given html/css assignment wherein we were required to build our resume.
 
