@@ -74,7 +74,7 @@ hr {
 
 .phn {
     display: grid;
-    grid-template-columns: 10% 90%;
+    grid-template-columns: 90% 90%;
     height: 20px;
     width: 200px;
 }
