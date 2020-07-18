@@ -5,8 +5,9 @@
 }
 
 .first_column {
-    background-color: #F5F5F5;
+    /* background-color: #F5F5F5; */
     box-shadow: 5px 10px 8px #888888;
+    background-color: #FAEBD7	;
 }
 
 .name {
@@ -45,9 +46,10 @@
 }
 
 .second_column {
-    background-color: #DCDCDC;
+    /* background-color: #DCDCDC; */
     margin-left: 20px;
     box-shadow: 5px 10px 8px #888888;
+    background-color: #FFDAB9;
 }
 
 hr {
